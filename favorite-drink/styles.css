@@ -1,0 +1,37 @@
+body {
+  background-image: url('https://static.vecteezy.com/system/resources/previews/002/876/937/original/bubble-milk-tea-design-collection-pearl-milk-tea-boba-milk-tea-yummy-drinks-coffees-with-doodle-style-banner-illustration-vector.jpg');
+  background-attachment: fixed;
+  background-position: center;
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.text-container {
+  border: 3px solid white;
+  border-radius: 10px;
+  background-color: hsl(0, 100%,0%, 0.5);
+}
+
+.title-container {
+  border-bottom: 3px solid white;
+}
+
+h1 {
+  padding: 0 0 0 1rem;
+  color: #A56F49;
+}
+
+p {
+  padding: 0 0 0 1rem;
+  color: whitesmoke;
+  font-size: larger;
+  line-height: 1.9rem;
+}
