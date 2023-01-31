@@ -1,2 +1,2 @@
-# webd152
-beginner HTML and CSS  
+# favorite drink  
+created a small website showing whats my favorite drink  
